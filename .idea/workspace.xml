@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f36b93a-9ebc-4f3a-bd07-370f845658e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TimKiemGoogle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tablesimple.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpleform.html" beforeDir="false" afterPath="$PROJECT_DIR$/simpleform.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607128420248</updated>
-      <workItem from="1607128426470" duration="6477000" />
+      <workItem from="1607128426470" duration="9390000" />
     </task>
     <servers />
   </component>
