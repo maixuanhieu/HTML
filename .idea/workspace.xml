@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f36b93a-9ebc-4f3a-bd07-370f845658e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ccs/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tableadvanced.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaoTrangCVCaNhan.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -44,7 +43,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607128420248</updated>
-      <workItem from="1607128426470" duration="11281000" />
+      <workItem from="1607128426470" duration="12888000" />
+      <workItem from="1607151838999" duration="4188000" />
     </task>
     <servers />
   </component>
@@ -61,5 +61,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
