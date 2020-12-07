@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f36b93a-9ebc-4f3a-bd07-370f845658e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaoBangDonGian.html" beforeDir="false" afterPath="$PROJECT_DIR$/TaoBangDonGian.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaoDanhSach.html" beforeDir="false" afterPath="$PROJECT_DIR$/TaoDanhSach.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaoFormCoBan1.html" beforeDir="false" afterPath="$PROJECT_DIR$/TaoFormCoBan1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaoFormCoBan2.html" beforeDir="false" afterPath="$PROJECT_DIR$/TaoFormCoBan2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +51,11 @@
       <workItem from="1607169805568" duration="6007000" />
       <workItem from="1607216635331" duration="2600000" />
       <workItem from="1607240518349" duration="2053000" />
-      <workItem from="1607256686396" duration="2357000" />
+      <workItem from="1607256686396" duration="2965000" />
+      <workItem from="1607261789794" duration="390000" />
+      <workItem from="1607300008534" duration="1053000" />
+      <workItem from="1607303485716" duration="11208000" />
+      <workItem from="1607322854492" duration="2336000" />
     </task>
     <servers />
   </component>

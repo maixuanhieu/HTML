@@ -1,25 +1,67 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
     <title>Tạo form đơn giản Sở thích</title>
 </head>
 <body>
-<form method="get" action="TaoFormCoBan1.html">
-    <h2>SỞ THÍCH CỦA BẠN</h2>
-    <p>Họ và tên
-        <input type = "text" size= "20"></p>
-    <p>Email
-    <input type = "text" size= "15"></p>
-    <p>Sở thích</p>
-    <input type="checkbox" name="cb"/>Thể thao
-    <input type="checkbox" name="cb"/>Âm nhạc
-    <input type="checkbox" name="cb"/>Đọc sách <br/>
-    <input type="checkbox" name="cb"/>Lướt web
-    <input type="checkbox" name="cb"/>Chơi game
-    <input type="checkbox" name="cb"/>Điện ảnh <br/>
-    <input type="checkbox" name="cb"/>Du lịch <br/>
-    <input type="submit" name="Gửi thông tin" value="Gửi thông tin"/>
-    <input type="reset" name="Nhập lại" value="Nhập lại"/>
+<div style="background: aqua; display: flex;justify-content: center;align-content: center">
+    <div style="background: white; padding: 15px; margin: 30px">
+    <table style="display: flex; justify-content: center">
+        <h2 style="background-color:Tomato; text-align: center; color: white">SỞ THÍCH CỦA BẠN</h2>
+        <tr>
+            <th method="get" action="TaoFormCoBan1.html">
+            </th>
+        </tr>
+        <tr>
+            <th style="color:blue; text-align: left">Họ và tên
+                <input type = "text" size= "20">
+                <p>Email
+                    <input type = "text" size= "15" style="margin: 24px">
+                </p>
+                <div style="display: flex">
+                    <div style="margin-top: 17px">Sở thích</div>
+                    <div>
+                        <table  style="color: tomato; text-align: left">
+                            <p>
+                               <tr>
+                                   <th>
+                                       <input type="checkbox" name="hobby"/>Thể thao
+                                   </th>
+                                   <th>
+                                       <input type="checkbox" name="hobby"/>Âm nhạc
+                                   </th>
+                                   <th>
+                                       <input type="checkbox" name="hobby"/>Đọc sách
+                                   </th>
+                               </tr>
+                               <tr>
+                                    <th>
+                                        <input type="checkbox" name="hobby"/>Lướt web
+                                    </th>
+                                    <th>
+                                        <input type="checkbox" name="hobby"/>Chơi game
+                                    </th>
+                                    <th>
+                                        <input type="checkbox" name="hobby"/>Điện ảnh
+                                    </th>
+                               </tr>
+                               <tr>
+                                   <th>
+                                       <input type="checkbox" name="hobby"/>Điện ảnh
+                                   </th>
+
+                               </tr>
+                            </p>
+                        </table>
+                        <input type="submit" name="Gửi thông tin" value="Gửi thông tin"/>
+                        <input type="reset" name="Nhập lại" value="Nhập lại"/>
+                    </div>
+                </div>
+            </th>
+        </tr>
+        </table>
+    </div>
+</div>
 </body>
 </html>

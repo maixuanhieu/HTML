@@ -4,37 +4,44 @@
     <meta charset="UTF-8">
     <title>Tạo form đơn giản Đăng ký</title>
 </head>
-<body>
-<form method="get" action="TaoFormCoBan2.html">
-    <h2>ĐĂNG KÝ HỌC VIÊN</h2>
-    <p>Họ và tên
-        <input type = "text" size= "20"></p>
-    <p>Ngày sinh
-        <input type = "text" size= "15"></p>
-    <p>Giới tính
-    <input type="radio" name="rd"/>Nam
-    <input type="radio" name="rd"/>Nữ </p>
-    <p>Địa chỉ
-        <input type="text" size="20"></p>
-    <p>Lớp
-    <select>
-        <option value="Chọn lớp">-Chọn lớp-</option>
-        <option>A </option>
-        <option>B </option>
-        <option>C </option>
-    </select>
-    <p>Email
-        <input type = "text" size= "15"></p>
-    <p>Điện thoại
-        <input type = "text" size= "15"></p>
-    <input type="submit" name="Đăng ký" value="Đăng ký"/>
-    <input type="reset" name="Nhập lại" value="Nhập lại"/>
-
-
-
-
-
-
-
+<body style="background: khaki">
+<table>
+    <form method="get" action="TaoFormCoBan2.html">
+        <tr>
+            <h2 style="color:blue; background: aqua">ĐĂNG KÝ HỌC VIÊN</h2>
+            <th style="text-align: left" >
+                <p style="color: blue">Họ và tên
+                    <input style="margin-left: 15px" type = "text" size= "20">
+                </p>
+                <p style="color: blue">Ngày sinh
+                    <input style="margin-left: 13px" type = "text" size= "15">
+                </p>
+                <p>
+                    <span style="color: blue">Giới tính</span>
+                    <input style="margin-left: 17px"type="radio" name="gender"/>Nam
+                    <input style="margin-left: 13px" type="radio" name="gender"/>Nữ
+                </p>
+                <p style="color: blue">Địa chỉ
+                    <input style="margin-left: 30px" type="text" size="20">
+                </p>
+                <p style="color: blue">Lớp
+                    <select style="margin-left: 50px" >
+                        <option value="Chọn lớp">-Chọn lớp-</option>
+                        <option>A </option>
+                        <option>B </option>
+                        <option>C </option>
+                    </select>
+                <p style="color: blue">Email
+                    <input style="margin-left: 36px" type = "text" size= "15">
+                </p>
+                <p style="color: blue">Điện thoại
+                    <input style="margin-left: 6px" type = "text" size= "15">
+                </p>
+                <input type="submit" name="Đăng ký" value="Đăng ký"/>
+                <input type="reset" name="Nhập lại" value="Nhập lại"/>
+            </th>
+        </tr>
+    </form>
+</table>
 </body>
 </html>
