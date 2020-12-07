@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f36b93a-9ebc-4f3a-bd07-370f845658e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/TaoDanhSach.html" beforeDir="false" afterPath="$PROJECT_DIR$/TaoDanhSach.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaoFormSurveyKhachHang.html" beforeDir="false" afterPath="$PROJECT_DIR$/TaoFormSurveyKhachHang.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <workItem from="1607261789794" duration="390000" />
       <workItem from="1607300008534" duration="1053000" />
       <workItem from="1607303485716" duration="11208000" />
-      <workItem from="1607322854492" duration="2923000" />
+      <workItem from="1607322854492" duration="5081000" />
     </task>
     <servers />
   </component>
